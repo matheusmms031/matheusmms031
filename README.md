@@ -25,4 +25,6 @@ Essa resposta é muito simples, a **SSH COMUNITY** é uma comunidade de programa
 
 A comunidade se encontra hoje em um servidor de discord, caso queira participar deixarei o formulário abaixo:
 
-<a href='https://forms.gle/eFb9Q23fwh1RmbqN9'>Link do Formulario</a>
+<ul>
+  <li><a href='https://forms.gle/eFb9Q23fwh1RmbqN9'>Link do Formulario</a></li>
+</ul>
