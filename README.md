@@ -24,3 +24,5 @@ Gosto mais de usar:
 Essa resposta é muito simples, a **SSH COMUNITY** é uma comunidade de programadores e hackers, para entrar no time é necessário ter um conhecimento mínimo na área, tal conhecimento será testado com alguns desafios que serão propostos pelos nossos administradores chefes, não é nada muito complexo, até porque o espaço nosso é para aprendizagem.
 
 A comunidade se encontra hoje em um servidor de discord, caso queira participar deixarei o formulário abaixo:
+
+<a href='https://forms.gle/eFb9Q23fwh1RmbqN9'>Link do Formulario</a>
