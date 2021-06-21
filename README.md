@@ -16,6 +16,7 @@ Gosto mais de usar:
 <h2>Minhas redes sociais:</h2>
 
 <ul>
+  <li><a href='https://instagram.com/tetebytee'>Instagram</a></li>
   <li><a href='https://twitter.com/m4th3ww'>Twitter</a></li>
 </ul> 
 
