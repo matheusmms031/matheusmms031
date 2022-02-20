@@ -12,7 +12,7 @@ e estudo no 9º ano do ensino fundamental, sou criador e fundador da **SSH COMUN
 Gosto mais de usar:
 
 - Python
-- Java
+- Js
 
 <h2>Minhas redes sociais:</h2>
 
