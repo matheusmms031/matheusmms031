@@ -1,24 +1,36 @@
-[![wakatime](https://wakatime.com/badge/user/4a4ba56b-256b-43b3-b6cc-3aac9e655ef4/project/68531930-25ba-41e6-89b0-e1d68e6463dc.svg)](https://wakatime.com/badge/user/4a4ba56b-256b-43b3-b6cc-3aac9e655ef4/project/68531930-25ba-41e6-89b0-e1d68e6463dc)
-## Olá a todos 🖐
-Sou programador desde os 9 anos, tenho 16 anos
-e estudo no 9º ano do ensino fundamental, sou criador e fundador da **CODERSMASTERS**, uma comunidade de hackers éticos e estudantes de ciências da programação, minhas habilidades:
+<div>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/gustavo-de-andrade-celleguim-b59894229/" target="_blank" ><i> Gustavo Celleguim </i></a> | 🚀💻 </h1>
+  <p align="center"> Estudando Desenvolvimento Web Pela <a href="https://www.rocketseat.com.br/"> <i> Rocketseat | 🚀 💻 </i></a>
+</div>
 
-- Python 3
-- NodeJs
-- JavaScript
-- Java
-- C#
+<div align = "center">
+  <a href="https://github.com/GusCelleguim">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guscelleguim&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusCelleguim&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
-Gosto mais de usar:
+<div align="center" valign="top"><br>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div><br>
 
-- Python
-- Js
+<div align="center">
+ <h1>- 📫 How to reach me: </h1> 
+  <a href="mailto:Gugacelleguim@Gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" </a>
+  <a href="https://www.instagram.com/guscelleguim_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gustavo-de-andrade-celleguim-b59894229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-<h2>Minhas redes sociais:</h2>
+<div align="center">
 
-<ul>
-  <li><a href='https://instagram.com/tetebytee'>Instagram</a></li>
-  <li><a href='https://twitter.com/m4th3ww'>Twitter</a></li>
-</ul> 
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)  
+  
+</div>
 
-<figure><embed src="https://wakatime.com/share/@4a4ba56b-256b-43b3-b6cc-3aac9e655ef4/1b3fa97f-67a7-4f14-a805-819ed8c5cc52.svg"></embed></figure>
+
+<div align="center">
+  <p>Feito com ❤️ e com  JavaScript <img align="center" alt="Js" height="25" width="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></p>
+  <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
