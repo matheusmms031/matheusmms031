@@ -14,7 +14,7 @@ Hey there! I’m Matheus Magalhães, 18 years old, currently living in Brazil.
 
 
 ###  Contact Me
-- <a href="[https://www.linkedin.com/in/Matheusmms031](https://www.linkedin.com/in/matheusmagalhaes031/)/">Linkedin</a>
+- <a href="https://www.linkedin.com/in/matheusmagalhaes031/">Linkedin</a>
 - <a href="mailto:contact@basemagalha@gmail.com">E-mail</a>
 </div>
 
