@@ -1,5 +1,5 @@
 ### About Me
-Hey there! I’m Matheus Magalhães, 18 years old, currently living in Brazil. 
+Hey there! I’m Matheus Magalhães, 19 years old, currently living in Brazil. 
 
 ### Technologies
 - Back-end Development with Python and Flask.
