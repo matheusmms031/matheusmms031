@@ -7,6 +7,8 @@ Hey there! I’m Matheus Magalhães, 19 years old, currently living in Brazil.
 - Front-end Development with HTML, CSS, Javascript and React.
 - Mobile Develoment with ReactNative.
 - Web Design with Figma.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmms031)](https://github.com/anuraghazra/github-readme-stats)
   
 ### Content Creator at:
 - <a href="https://instagram.com/codersmasters">Instagram - @codersmaters</a>
