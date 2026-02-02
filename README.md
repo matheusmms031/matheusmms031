@@ -8,7 +8,6 @@ Hey there! I’m Matheus Magalhães, 19 years old, currently living in Brazil.
 - Mobile Develoment with ReactNative.
 - Web Design with Figma.
 
-![Metrics](https://github.com/matheusmms031/matheusmms031/blob/main/github-metrics.svg)
   
 ### Content Creator at:
 - <a href="https://instagram.com/codersmasters">Instagram - @codersmaters</a>
